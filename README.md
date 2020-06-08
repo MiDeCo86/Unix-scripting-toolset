@@ -10,7 +10,9 @@ If necessary adapt the shebang in the first line of the library.
 #!/usr/bin/python
 ```
 
-Put the program in the same directory as your main python program
+Put the program in the same directory as your main python program. 
+
+In your main python program use it like (example):
 
 ```
 from run_unix_command import run_unix_cmd
